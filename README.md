@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rapharlc
 - 👀 I’m interested in programation
-- 🌱 I’m currently learning in Tech4me
+- 🌱 I’m currently student in Tech4me
 
 
 <!---
